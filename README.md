@@ -1,5 +1,8 @@
 # nbconvert-mistune-test
-Minimized test case to solve an issue with using mistune 0.7.3 within jupyter nbconvert
+Minimized test case to solve an issue with using mistune 0.7.3 within jupyter nbconvert.
+
+---
+
 To test the conversion, run
 ``` bash
 jupyter-nbconvert --to html html_md_test.ipynb
